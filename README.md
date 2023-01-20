@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Jeffrey Dabo</h1>
 <h3 align="center">A polymathic software engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jay-dabo&label=Profile%20views&color=0e75b6&style=flat" alt="jay-dabo" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jay-dabo" alt="jay-dabo" /></a> </p>
 
 - 💬 Ask me about **Ruby, Ruby on Rails, NodeJS, Angular, React, TypeScript, JavaScript, SQL, Postgresql, Redis, AWS, NativeScript, Ionic, Cordova ...etc**
@@ -23,4 +21,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-stats-git-master-jay-dabo.vercel.app/api?username=Jay-Dabo&show_icons=true&theme=transparent&locale=en" alt="jay-dabo" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jay-dabo&" alt="jay-dabo" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=jay-dabo&" alt="jay-dabo" /></p>
