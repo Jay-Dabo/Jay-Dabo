@@ -1,1 +1,1 @@
-[![Dabo's GitHub stats](https://github-stats-git-master-jay-dabo.vercel.app/api/top-langs?username=Jay-Dabo&show_icons=true&theme=transparent&locale=en&layout=compact)](https://github.com/Jay-Dabo/github-readme-stats)
+[![Dabo's GitHub stats](https://github-stats-git-master-jay-dabo.vercel.app/api/top-langs?username=Jay-Dabo&show_icons=true&theme=transparent&locale=en)](https://github.com/Jay-Dabo/github-readme-stats)
