@@ -19,6 +19,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jay-dabo&show_icons=true&locale=en&theme=transparent" alt="jay-dabo" /></p>
 <br>
-<p><img align="left" src="https://github-stats-git-master-jay-dabo.vercel.app/api?username=Jay-Dabo&show_icons=true&theme=transparent&locale=en" alt="jay-dabo" /></p>
+<p>&nbsp;<img align="center" src="https://github-stats-git-master-jay-dabo.vercel.app/api?username=Jay-Dabo&show_icons=true&theme=transparent&locale=en" alt="jay-dabo" /></p>
 <br>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jay-dabo&" alt="jay-dabo" /></p>
