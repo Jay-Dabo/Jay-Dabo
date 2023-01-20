@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Jeffrey Dabo</h1>
 <h3 align="center">A polymathic software engineer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jay-dabo" alt="jay-dabo" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">&nbsp;<img src="https://github-profile-trophy.vercel.app/?username=jay-dabo" alt="jay-dabo" /></a> </p>
 
 - 💬 Ask me about **Ruby, Ruby on Rails, NodeJS, Angular, React, TypeScript, JavaScript, SQL, Postgresql, Redis, AWS, NativeScript, Ionic, Cordova ...etc**
 
